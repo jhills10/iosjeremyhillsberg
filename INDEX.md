@@ -4,6 +4,7 @@
 
 | Resource | Audience | What it covers |
 | --- | --- | --- |
+| [Apple Intelligence and Xcode study guide](docs/ai/apple-intelligence-and-xcode-study-guide.md) | Humans and agents | WWDC26 chapter map, planning exercise, and verification checklist |
 | [App Review approval and account enforcement](docs/app-store/approval-and-account-enforcement.md) | Humans and agents | Reported claims, documented policy, recordkeeping, and appeal routes |
 | [iOS engineering foundations](docs/ios-foundations.md) | Humans and agents | State, boundaries, concurrency, accessibility, and verification |
 | [Agent instructions](AGENTS.md) | Coding agents | Safe research, writing, and validation |
