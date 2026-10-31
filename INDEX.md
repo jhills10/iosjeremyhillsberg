@@ -4,6 +4,7 @@
 
 | Resource | Audience | What it covers |
 | --- | --- | --- |
+| [App Review submission readiness](docs/app-store/submission-readiness.md) | Humans and agents | Pricing, prompts, reviewer access, account deletion, tracking, and qualified community advice |
 | [App size and install friction](docs/app-store/app-size-and-install-friction.md) | Humans and agents | Size measurements, cellular-prompt caveats, and optimization experiments |
 | [Organization enrollment and D-U-N-S lookup](docs/app-store/organization-enrollment-and-duns.md) | Founders and agents | Existing-number lookup, account distinctions, and enrollment pitfalls |
 | [iPhone Duo agent preparation workflow](docs/design/iphone-duo-agent-workflow.md) | Humans and agents | Self-contained audit, design preview, transition tests, and submission checks |

@@ -19,6 +19,10 @@ Start with [Apple Developer Documentation](https://developer.apple.com/documenta
 
 Open the relevant Apple page before making version-sensitive claims. If a text fetch only returns a JavaScript notice, use a JavaScript-capable browser; if access remains unavailable, state that limitation. Verify symbol availability against the target OS and SDK, cite the exact page and access date, and distinguish documented behavior from inference and testing. Store original notes and source links rather than mirroring Apple's documentation. Never send private material to search or documentation tools.
 
+## Social post research
+
+For X/Twitter sources, inspect accessible replies for useful corrections, examples, and primary-source links. Attribute useful replies with direct permalinks, verify technical claims independently, and distinguish anecdotes and questions from documented requirements. Record the date and reply coverage, including login or loading limits; never imply that a partial view includes every comment.
+
 ## Writing resources
 
 Explain the problem, approach, tradeoffs, and verification steps. Keep examples small and independently written. Use fictitious data; do not transform real customer records into examples. Cite sources and verify version-sensitive API claims. Label untested snippets and avoid implying compilation or device testing that did not occur.
