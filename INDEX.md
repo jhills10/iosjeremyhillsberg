@@ -4,6 +4,7 @@
 
 | Resource | Audience | What it covers |
 | --- | --- | --- |
+| [October 2026 App Review updates](docs/app-store/review-guideline-updates-2026-10.md) | Humans and agents | New sections versus existing policy, scope corrections, and a release-review exercise |
 | [Screenshot messaging and testing](docs/app-store/screenshot-messaging-and-testing.md) | Humans and agents | Clear screenshot concepts, truthful claims, Apple requirements, and conversion experiments |
 | [App Review submission readiness](docs/app-store/submission-readiness.md) | Humans and agents | Pricing, prompts, reviewer access, account deletion, tracking, and qualified community advice |
 | [App size and install friction](docs/app-store/app-size-and-install-friction.md) | Humans and agents | Size measurements, cellular-prompt caveats, and optimization experiments |
