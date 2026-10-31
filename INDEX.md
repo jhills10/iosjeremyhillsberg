@@ -4,6 +4,8 @@
 
 | Resource | Audience | What it covers |
 | --- | --- | --- |
+| [Design for iPhone Duo](docs/design/design-for-iphone-duo.md) | Humans and agents | Adaptive layout review, chapter links, and transition tests |
+| [Principles of great design](docs/design/principles-of-great-design.md) | Humans and agents | Feature review, chapter links, and a usability exercise |
 | [Using Apple Developer Documentation](docs/references/apple-developer-documentation.md) | Humans and agents | Official entry points, browser fallback, API verification, and source records |
 | [Apple Intelligence and Xcode study guide](docs/ai/apple-intelligence-and-xcode-study-guide.md) | Humans and agents | WWDC26 chapter map, planning exercise, and verification checklist |
 | [App Review approval and account enforcement](docs/app-store/approval-and-account-enforcement.md) | Humans and agents | Reported claims, documented policy, recordkeeping, and appeal routes |
