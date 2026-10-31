@@ -1,5 +1,12 @@
 # App Review Approval and Account Enforcement
 
+[Library index](../../INDEX.md)
+
+- **Type:** Case analysis and workflow
+- **Use when:** Understand approval versus ongoing obligations or an enforcement notice.
+- **Expected output:** An evidence chronology and the appropriate response route.
+- **Recheck before use:** Applicable agreement version, notice status, and appeal process.
+
 Research checked: October 31, 2026. Audience: iOS developers and coding agents.
 
 ## Learning objective

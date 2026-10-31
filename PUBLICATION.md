@@ -14,7 +14,7 @@ Do not commit credentials, signing material, provisioning profiles, environment 
 
 1. Confirm every added file has an acceptable origin. Review images, attachments, and generated content as carefully as prose.
 2. Inspect the complete diff and untracked files. Confirm examples are independently written and synthetic.
-3. Run `python3 scripts/check_publication.py`. Resolve findings without bypassing the check.
+3. Run `python3 scripts/check_publication.py`, `python3 scripts/check_library.py`, and `git diff --check`. Resolve findings without bypassing the checks. Navigation checks do not verify technical claims or source reliability.
 4. Confirm source links and technical claims. Disclose validation limits.
 5. Have a maintainer review the pull request checklist before merging.
 

@@ -14,3 +14,7 @@ jobs:
           persist-credentials: false
       - name: Check public content
         run: python3 scripts/check_publication.py
+      - name: Check library navigation
+        run: python3 scripts/check_library.py
+      - name: Test library checker
+        run: python3 -m unittest discover -s tests

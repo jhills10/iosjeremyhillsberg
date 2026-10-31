@@ -1,5 +1,12 @@
 # Organization Enrollment: Look Up an Existing D-U-N-S Number First
 
+[Library index](../../INDEX.md)
+
+- **Type:** Workflow
+- **Use when:** Enroll an organization or investigate a missing D-U-N-S record.
+- **Expected output:** A lookup and enrollment plan with identity roles kept separate.
+- **Recheck before use:** Enrollment rules, regional lookup routes, and synchronization timing.
+
 Research checked: October 31, 2026. Audience: founders and coding agents assisting with enrollment.
 
 ## Start here

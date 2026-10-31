@@ -1,5 +1,12 @@
 # App Size and Install Friction
 
+[Library index](../../INDEX.md)
+
+- **Type:** Measurement workflow
+- **Use when:** Investigate download size or installation friction.
+- **Expected output:** A variant-size baseline, optimization experiment, and measurement limits.
+- **Recheck before use:** Target OS settings, size reporting, and asset-delivery support.
+
 Research checked: October 31, 2026. Audience: iOS developers, product teams, and coding agents.
 
 ## Learning objective

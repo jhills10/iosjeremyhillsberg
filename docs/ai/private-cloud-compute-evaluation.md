@@ -1,5 +1,12 @@
 # Evaluating Apple Model Access and Private Cloud Compute
 
+[Library index](../../INDEX.md)
+
+- **Type:** Evaluation workflow
+- **Use when:** Assess model access, eligibility, and task suitability.
+- **Expected output:** An eligibility record, evaluation plan, fallback, and migration plan.
+- **Recheck before use:** PCC terms, entitlements, availability, and model capabilities.
+
 Research checked: October 31, 2026. Audience: iOS developers and coding agents.
 
 ## Sources and purpose

@@ -1,5 +1,12 @@
 # Principles of Great Design: Feature Review Guide
 
+[Library index](../../INDEX.md)
+
+- **Type:** Study guide
+- **Use when:** Review a feature through user tasks and design tradeoffs.
+- **Expected output:** A usability exercise and decision record.
+- **Recheck before use:** Platform component guidance when selecting an implementation.
+
 Research checked: October 31, 2026. Audience: humans and coding agents.
 
 Sources: [Apple session and transcript](https://developer.apple.com/videos/play/wwdc2026/250/) · [Original YouTube video](https://www.youtube.com/watch?v=Xa9L2yx_QH8).

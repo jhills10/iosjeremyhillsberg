@@ -1,5 +1,12 @@
 # App Review Submission Readiness
 
+[Library index](../../INDEX.md)
+
+- **Type:** Workflow
+- **Use when:** Prepare an app for review.
+- **Expected output:** A release checklist with evidence and unresolved issues.
+- **Recheck before use:** Current review, subscription, privacy, and device requirements.
+
 Research checked: October 31, 2026. Audience: developers and coding agents.
 
 ## Source and scope

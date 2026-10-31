@@ -1,5 +1,12 @@
 # iPhone Duo: Agent Preparation Workflow
 
+[Library index](../../INDEX.md)
+
+- **Type:** Implementation planning workflow
+- **Use when:** Plan an adaptive app audit and preview.
+- **Expected output:** Evidence-backed findings, design proposal, and transition tests.
+- **Recheck before use:** SDK behavior, API availability, and submission requirements.
+
 Reviewed: October 31, 2026. Audience: developers, designers, and coding agents.
 
 ## Purpose and provenance

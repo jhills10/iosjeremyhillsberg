@@ -1,5 +1,12 @@
 # Using Apple Developer Documentation
 
+[Library index](../../INDEX.md)
+
+- **Type:** Research workflow
+- **Use when:** Find and verify an Apple API or framework claim.
+- **Expected output:** Exact source, availability, interpretation, and verification record.
+- **Recheck before use:** The relevant symbol and SDK for every implementation task.
+
 Canonical entry point: [Apple Developer Documentation](https://developer.apple.com/documentation).
 
 Last navigation check: October 31, 2026. Audience: humans and coding agents.

@@ -1,5 +1,12 @@
 # Reading the October 2026 App Review Updates
 
+[Library index](../../INDEX.md)
+
+- **Type:** Dated policy note
+- **Use when:** Understand what Apple announced in October 2026.
+- **Expected output:** A change classification and release-impact checklist.
+- **Recheck before use:** Current rules before applying this historical update to a live release.
+
 Research checked: October 31, 2026. Audience: developers and coding agents.
 
 ## What prompted this guide

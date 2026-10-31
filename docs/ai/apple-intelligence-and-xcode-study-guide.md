@@ -1,5 +1,12 @@
 # Apple Intelligence and Xcode: A Study Guide
 
+[Library index](../../INDEX.md)
+
+- **Type:** Study guide
+- **Use when:** Choose a learning path across Apple AI and development tools.
+- **Expected output:** A focused task, acceptance criteria, and selected session chapters.
+- **Recheck before use:** Shipping status, toolchain support, and provider terms.
+
 Research checked: October 31, 2026. Audience: iOS developers and coding agents.
 
 Source: [Apple's WWDC26 presentation and transcript](https://developer.apple.com/videos/play/wwdc2026/382/). Also available on [YouTube](https://www.youtube.com/watch?v=Wpwjqk1UGnQ).

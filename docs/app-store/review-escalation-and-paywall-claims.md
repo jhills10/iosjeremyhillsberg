@@ -1,5 +1,12 @@
 # App Review Escalation and Paywall Claims
 
+[Library index](../../INDEX.md)
+
+- **Type:** Claim analysis and workflow
+- **Use when:** Resolve a rejection or evaluate paywall-related advice.
+- **Expected output:** A factual response draft and focused correction plan.
+- **Recheck before use:** The cited rule, account status, and current support route.
+
 Research checked: October 31, 2026. Audience: developers and agents.
 
 ## Community sources

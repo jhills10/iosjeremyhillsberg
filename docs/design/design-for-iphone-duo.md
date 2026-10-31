@@ -1,5 +1,12 @@
 # Design for iPhone Duo: Layout Review Guide
 
+[Library index](../../INDEX.md)
+
+- **Type:** Study guide
+- **Use when:** Learn adaptive-layout principles and locate session chapters.
+- **Expected output:** A layout-review test matrix.
+- **Recheck before use:** Current device, SDK, and layout documentation.
+
 Research checked: October 31, 2026. Audience: designers, iOS developers, and coding agents.
 
 Sources: [Apple session and transcript](https://developer.apple.com/videos/play/tech-talks/111466/) · [Original YouTube video](https://www.youtube.com/watch?v=do3UqxfYc3I).

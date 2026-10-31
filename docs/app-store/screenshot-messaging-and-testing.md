@@ -1,5 +1,12 @@
 # App Store Screenshots: Messaging and Testing
 
+[Library index](../../INDEX.md)
+
+- **Type:** Design and experiment workflow
+- **Use when:** Plan product-page screenshots and a conversion experiment.
+- **Expected output:** A screenshot sequence, claim evidence, and test hypothesis.
+- **Recheck before use:** Asset requirements and Product Page Optimization rules.
+
 Research checked: October 31, 2026. Audience: designers, developers, and coding agents.
 
 ## Source and evidence

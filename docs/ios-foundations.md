@@ -1,5 +1,12 @@
 # iOS Engineering Foundations
 
+[Library index](../INDEX.md)
+
+- **Type:** Concept guide
+- **Use when:** Plan state, asynchronous work, and verification for a small feature.
+- **Expected output:** A state-transition table and behavior checks.
+- **Recheck before use:** Platform APIs when turning the concepts into code.
+
 ## Learning objective
 
 Learn to turn a feature request into a small, testable design. This is original, conceptual guidance; it contains no API-specific code or claims of compilation or device testing.
