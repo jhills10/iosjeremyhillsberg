@@ -45,3 +45,5 @@ Before naming APIs or promising automatic behavior, follow the [Apple documentat
 ## Validation limits
 
 The public transcript was reviewed; the audiovisual demonstration was not independently watched or reproduced. No app, simulator, or device was tested. The exercise uses invented data and contains no private source material. Recheck current documentation before implementing version-sensitive behavior.
+
+For a self-contained implementation planning checklist, see the [iPhone Duo agent preparation workflow](iphone-duo-agent-workflow.md).

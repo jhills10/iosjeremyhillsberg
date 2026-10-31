@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | [App size and install friction](docs/app-store/app-size-and-install-friction.md) | Humans and agents | Size measurements, cellular-prompt caveats, and optimization experiments |
 | [Organization enrollment and D-U-N-S lookup](docs/app-store/organization-enrollment-and-duns.md) | Founders and agents | Existing-number lookup, account distinctions, and enrollment pitfalls |
+| [iPhone Duo agent preparation workflow](docs/design/iphone-duo-agent-workflow.md) | Humans and agents | Self-contained audit, design preview, transition tests, and submission checks |
 | [Design for iPhone Duo](docs/design/design-for-iphone-duo.md) | Humans and agents | Adaptive layout review, chapter links, and transition tests |
 | [Principles of great design](docs/design/principles-of-great-design.md) | Humans and agents | Feature review, chapter links, and a usability exercise |
 | [Using Apple Developer Documentation](docs/references/apple-developer-documentation.md) | Humans and agents | Official entry points, browser fallback, API verification, and source records |
