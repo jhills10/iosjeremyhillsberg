@@ -4,6 +4,7 @@
 
 | Resource | Audience | What it covers |
 | --- | --- | --- |
+| [Screenshot messaging and testing](docs/app-store/screenshot-messaging-and-testing.md) | Humans and agents | Clear screenshot concepts, truthful claims, Apple requirements, and conversion experiments |
 | [App Review submission readiness](docs/app-store/submission-readiness.md) | Humans and agents | Pricing, prompts, reviewer access, account deletion, tracking, and qualified community advice |
 | [App size and install friction](docs/app-store/app-size-and-install-friction.md) | Humans and agents | Size measurements, cellular-prompt caveats, and optimization experiments |
 | [Organization enrollment and D-U-N-S lookup](docs/app-store/organization-enrollment-and-duns.md) | Founders and agents | Existing-number lookup, account distinctions, and enrollment pitfalls |
