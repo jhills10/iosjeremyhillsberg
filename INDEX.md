@@ -4,6 +4,8 @@
 
 | Resource | Audience | What it covers |
 | --- | --- | --- |
+| [Review escalation and paywall claims](docs/app-store/review-escalation-and-paywall-claims.md) | Humans and agents | Same-build resubmission, support routes, pricing claims, and evidence limits |
+| [PCC eligibility and model evaluation](docs/ai/private-cloud-compute-evaluation.md) | Humans and agents | Conditional model access, migration planning, device testing, and community reports |
 | [October 2026 App Review updates](docs/app-store/review-guideline-updates-2026-10.md) | Humans and agents | New sections versus existing policy, scope corrections, and a release-review exercise |
 | [Screenshot messaging and testing](docs/app-store/screenshot-messaging-and-testing.md) | Humans and agents | Clear screenshot concepts, truthful claims, Apple requirements, and conversion experiments |
 | [App Review submission readiness](docs/app-store/submission-readiness.md) | Humans and agents | Pricing, prompts, reviewer access, account deletion, tracking, and qualified community advice |
