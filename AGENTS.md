@@ -13,6 +13,12 @@ Create original public educational resources for iOS developers and coding agent
 - If a task would require private material, stop that portion and explain the boundary. Continue with a fresh generic educational example when possible.
 - Never print suspected secrets. Report only the affected path, line, and category.
 
+## Apple documentation research
+
+Start with [Apple Developer Documentation](https://developer.apple.com/documentation) for Apple API questions and follow the [documentation access guide](docs/references/apple-developer-documentation.md).
+
+Open the relevant Apple page before making version-sensitive claims. If a text fetch only returns a JavaScript notice, use a JavaScript-capable browser; if access remains unavailable, state that limitation. Verify symbol availability against the target OS and SDK, cite the exact page and access date, and distinguish documented behavior from inference and testing. Store original notes and source links rather than mirroring Apple's documentation. Never send private material to search or documentation tools.
+
 ## Writing resources
 
 Explain the problem, approach, tradeoffs, and verification steps. Keep examples small and independently written. Use fictitious data; do not transform real customer records into examples. Cite sources and verify version-sensitive API claims. Label untested snippets and avoid implying compilation or device testing that did not occur.

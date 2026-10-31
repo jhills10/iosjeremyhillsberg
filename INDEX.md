@@ -4,6 +4,7 @@
 
 | Resource | Audience | What it covers |
 | --- | --- | --- |
+| [Using Apple Developer Documentation](docs/references/apple-developer-documentation.md) | Humans and agents | Official entry points, browser fallback, API verification, and source records |
 | [Apple Intelligence and Xcode study guide](docs/ai/apple-intelligence-and-xcode-study-guide.md) | Humans and agents | WWDC26 chapter map, planning exercise, and verification checklist |
 | [App Review approval and account enforcement](docs/app-store/approval-and-account-enforcement.md) | Humans and agents | Reported claims, documented policy, recordkeeping, and appeal routes |
 | [iOS engineering foundations](docs/ios-foundations.md) | Humans and agents | State, boundaries, concurrency, accessibility, and verification |
