@@ -34,6 +34,7 @@ Submission readiness is the starting checklist. Escalation covers communication 
 
 | Task | Start here | Read next only if needed |
 | --- | --- | --- |
+| Refine and export a flat app icon | [Icon prompt and Figma workflow](docs/design/app-icon-generation-and-export.md) | [Design review principles](docs/design/principles-of-great-design.md) |
 | Evaluate a feature’s usability | [Principles of great design](docs/design/principles-of-great-design.md) | Platform component documentation |
 | Learn adaptive-layout concepts | [Design for iPhone Duo](docs/design/design-for-iphone-duo.md) | [Agent preparation workflow](docs/design/iphone-duo-agent-workflow.md) to plan implementation |
 | Audit an app’s adaptive behavior | [iPhone Duo preparation workflow](docs/design/iphone-duo-agent-workflow.md) | [Layout study guide](docs/design/design-for-iphone-duo.md) for rationale and chapters |
